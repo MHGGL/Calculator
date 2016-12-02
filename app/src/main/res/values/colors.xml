@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorBlueKam">#37d9ae</color>
+    <color name="colorYelloPor">#6c8001</color>
+    <color name="colorPoostPiazi">#d6b0e9</color>
+    <color name="colorOrange">#bc6603</color>
+    <color name="colorGhahvei">#b4ea581e</color>
+    <color name="colorBlueSky">#4a85de</color>
+    <color name="colorGray">#949091</color>
+    <color name="colorGreen">#1d9306</color>
+    <color name="colorPink">#ff4081</color>
+    <color name="colorRed">#cf0f15</color>
+    <color name="colorKerem">#c1a772</color>
+    <color name="colorGrrenLajani">#055113</color>
+    <color name="colorWhite">#fdfdfd</color>
+    <color name="colorFiroozei">#03b1d4</color>
+    <color name="colorGhahveiPor">#4e1407</color>
+    <color name="colorOrangeKam">#f7a14b</color>
+    <color name="colorBanafshKam">#c569e9</color>
+    <color name="colorYelloKam">#f5d900</color>
+    <color name="colorGrayPor">#8c8a86</color>
+    <color name="colorBack">#f7e4be</color>
+
+
+</resources>
